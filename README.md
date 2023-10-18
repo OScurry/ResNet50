@@ -6,5 +6,5 @@ The repository contains the final report that was returned for Aalto University 
 Two different ML models logistic regression (multi-class) and a convolutional neural network (ResNet50) were benchmarked against eachother. 
 ResNet50 has superior performance, which is motivated and visualized in the final report
 
-![Visualisation of a few classes in the aerial images](./output_FULLPAGEAP.png)
+![Visualisation of a few classes in the aerial images](./data/output_FULLPAGEAP.png)
 
